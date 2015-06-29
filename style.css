@@ -296,6 +296,10 @@ pre .value,
 pre .regexp {
   color: #BF79DB;
 }
+pre .attribute {
+  color: #9ADC15;
+}
+
 
 pre .tag .value,
 pre .string,
